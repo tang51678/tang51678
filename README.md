@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @tang51678
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 比赛经历
 
-<!---
-tang51678/tang51678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2次绿盟杯,中国银行杯,中华人民共和国第二届职业技能大赛,2次一带一路金砖赛,海南大学第四届网络安全技能挑战赛,NSSCTF平
+台的AWD竞赛,网鼎杯,广东海洋大学校赛,corCTF,irisc.tf(国际),杭州的西湖论剑CTF比赛
+
+# 项目经历
+
+重庆中国移动系统安全项目------网络安全服务渗透岗位
+(三次网络安全大检查,一次应急响应,二次护网,三次重保和CG,几条万资产中快速打点找出薄弱点和做内网和公网的越权渗透和基础
+漏洞渗透等)

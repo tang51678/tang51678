@@ -1,68 +1,55 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hello+World%2C+I'm+tang51678;Python+Enthusiast+%7C+Cyber+Security+Lover;Building+Secure+and+Smart+Systems+with+Code" alt="Typing SVG" />
-</p>
+<!-- 动态欢迎语 -->
+<tool_call>
 
-<!-- Profile Image (Optional) -->
-<!-- 如果你有一个头像或技术图示，可在此添加 -->
+<br />
+
+<!-- 头像（可选） -->
 <!-- <p align="center">
-  <img src="https://via.placeholder.com/150/C2DFFF/333?text=💻" width="150" style="border-radius: 50%;" />
+  <img src="https://via.placeholder.com/150/C2DFFF/333?text=💻" width="120" style="border-radius: 50%;" />
 </p> -->
 
-<br />
-
-<!-- Badges -->
+<!-- 联系方式 & 公众号 -->
 <p align="center">
   <a href="https://github.com/tang51678">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&color=181717&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%E4%BC%98%E7%A7%80%E5%BC%80%E5%8F%91%E8%80%85-181717?logo=github&logoColor=white" />
   </a>
   <a href="https://mp.weixin.qq.com/s?__biz=MzU0NjI5NDMwMA==&mid=2247483649&idx=1&sn=95e25795d2c0a56a9e36f9b1504d63f5&chksm=fb525d05cc25da1357c05499231048a3c73b98063c495f85134d2098621e236a1822622f939b#rd" target="_blank">
-    <img src="https://img.shields.io/badge/开心网安-%E5%85%AC%E4%BC%97%E5%8F%B7-28A745?logo=weChat&logoColor=white" alt="开心网安 公众号" />
+    <img src="https://img.shields.io/badge/%E5%BC%80%E5%BF%83%E7%BD%91%E5%AE%89-%E5%85%AC%E4%BC%97%E5%8F%B7-28A745?logo=weChat&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Python-3.12+-FFD43B?logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Cyber_Security-Hacker%20Green?logo=safety&color=2EA362" />
 </p>
 
 <br />
 
-<!-- Stats -->
+<!-- 数据统计 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tang51678&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&icon_color=36C9C3" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tang51678&theme=transparent&show_icons=true&hide_border=true&layout=compact&icon_color=36C9C3" width="400" />
   <img src="https://streak-stats.demolab.com?user=tang51678&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true&stroke=36C9C3" width="400" />
 </div>
 
 <br />
 
-<!-- Tech Stack -->
+<!-- 技术栈 -->
 <div align="center">
-  <h3>🛠️ &nbsp;Tech Stack</h3>
+  <h3>🛠️ 技术栈</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776B1?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/BeautifulSoup-FF9900?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scrapy-00FF00?logo=Scrapy&logoColor=black" />
     <img src="https://img.shields.io/badge/Pandas-150536?logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Numpy-016DAA?logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scrapy-00FF00?logo=Scrapy&logoColor=black" />
   </p>
-
   <p>
+    <img src="https://img.shields.io/badge/Cyber_Security-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8-red" />
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/CyberSecurity-Red?logo=defense&logoColor=white&color=BF0000" />
   </p>
 </div>
 
 <br />
 
-<!-- Projects (示例) -->
-
-
-<br />
-
-<!-- Footer -->
+<!-- 简介与座右铭 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  <p><em>🚀 Powered by Python | Always learning, building, and hacking securely.</em></p>
+  <em>💻 用 Python 构建工具，用代码守护安全</em>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </div>

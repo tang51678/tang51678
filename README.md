@@ -57,27 +57,7 @@
 <br />
 
 <!-- Projects (示例) -->
-<div align="center">
-  <h3>🚀 &nbsp;Featured Projects</h3>
-  <em>Here are some of my favorite Python-powered projects:</em>
 
-  <details>
-    <summary><strong>🐍 Web Crawler & Data Analyzer</strong></summary>
-    <p>A Python-based scraper using <code>Scrapy</code> and <code>Pandas</code> to collect and analyze web data. Used for threat intelligence and open-source research.</p>
-  </details>
-
-  <details>
-    <summary><strong>🔐 Security Automation Tool</strong></summary>
-    <p>Built with <code>Django</code> and <code>Requests</code>, automates vulnerability scanning and log analysis for internal pentesting.</p>
-  </details>
-
-  <details>
-    <summary><strong>📊 Malware Behavior Dashboard</strong></summary>
-    <p>Visualization backend powered by <code>Flask</code> + <code>Plotly</code> to monitor suspicious behaviors from sandbox logs.</p>
-  </details>
-  
-  <p><em>🔎 Check out more on <a href="https://github.com/tang51678">my GitHub</a>!</em></p>
-</div>
 
 <br />
 
